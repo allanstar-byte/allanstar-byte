@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @allanstar-byte
-- 👀 I’m interested in Data science / ML / DL / AI
-- 🌱 I’m currently learning Model deployment
-- 💞️ I’m looking to collaborate on model deployment
+- 👀 I’m interested in AI | Software 
+- 🌱 I’m currently learning Software Engineering
+- 💞️ I’m looking to collaborate on User products
 - 📫 How to reach me allanmutisya254ke@gmail.com / +254720168846
 
 <!---
