@@ -1,15 +1,4 @@
-- 👋 Hi, I’m @allanstar-byte
-- 👀 I’m interested in AI | Software 
-- 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on User products
-- 📫 How to reach me allanmutisya254ke@gmail.com / +254720168846
 
-<!---
-allanstar-byte/allanstar-byte is a Guru✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
----
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -27,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🧞‍♂️_technologist: About Me :
+### 🧞 About Me :
 I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi-Kenya.
 
 - :telescope: I’m working as a Data Scientist and contributing to frontend and backend for building web applications and data related softwares and tools.
@@ -36,7 +25,7 @@ I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.c
 
 - :zap: In my free time, I solve problems on Codewars, blog posts on LinkedIn, Twitter and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanmutisya)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allanmutisya) allanmutisya254ke@gmail.com / +254720168846
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
