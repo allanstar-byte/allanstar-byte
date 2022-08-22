@@ -54,7 +54,7 @@ I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.c
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
-<div id="badges" align="center">
+<div align="center">
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allanstar-byte&langs_count=5&theme=tokyonight)]()
 </div>
   ---
