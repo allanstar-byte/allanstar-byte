@@ -55,7 +55,7 @@ I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.c
 
 ---
 <div id="badges" align="center">
-  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allanstar-byte&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allanstar-byte&langs_count=5&theme=tokyonight)]()
 </div>
   ---
 
