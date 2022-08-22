@@ -57,11 +57,9 @@ I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.c
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=allanstar-byte&langs_count=5&theme=tokyonight&layout=compact)]()
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=allanstar-byte"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=allanstar-byte&layout=compact"/>
   ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=allanstar-byte&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=allanstar-byte&count_private=true&theme=tokyonight&showicons=true&layout=compact)]()
 
 
 
