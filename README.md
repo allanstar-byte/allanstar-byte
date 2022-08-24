@@ -16,7 +16,7 @@
 ---
 
 ### 🧞 About Me :
-I am a Data Scientist and a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi-Kenya.
+I am a Data Scientist and a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi-Kenya.
 
 - :telescope: I’m working as a Data Scientist and contributing to frontend and backend for building web applications and data related softwares and tools.
 
