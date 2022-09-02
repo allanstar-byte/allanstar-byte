@@ -46,6 +46,6 @@ I am a Data Scientist and a Software Developer <img src="https://media.giphy.com
 </div>
 
 ---
-[![Allans's github activity graph](https://activity-graph.herokuapp.com/graph?username=allanstar-byte&theme=dracula)](https://github.com/allanstar-byte/github-readme-activity-graph)
+[![Allans's github activity graph](https://activity-graph.herokuapp.com/graph?username=allanstar-byte&theme=react-dark)](https://github.com/allanstar-byte/github-readme-activity-graph)
 
 
