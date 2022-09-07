@@ -1,7 +1,7 @@
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1HhXUDqvm6ha5YBQKAZSvZpN7QxgCGu82/view?usp=sharing" width="100"/>
-  https://drive.google.com/file/d/1HhXUDqvm6ha5YBQKAZSvZpN7QxgCGu82/view?usp=sharing
-  https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif
+  <img src=" https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+ 
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/allanmutisya">
