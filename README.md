@@ -31,9 +31,9 @@ I am a Data Scientist and a Software Developer <img src="https://media.giphy.com
 
 - :seedling: Exploring Technical Content Writing and Web3.
 
-- :zap: In my free time, I solve problems on Codewars, blog posts on LinkedIn, Twitter and read tech articles.
+- :zap: In my free time, I write blog posts on LinkedIn, Twitter, Instagram and read tech articles.
 
-- :mailbox:How to reach me:  allanmutisya254ke@gmail.com / +254720168846
+- :mailbox: How to reach me:  allanmutisya254ke@gmail.com / +254720168846
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
