@@ -2,7 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=95F746&center=true&width=435&lines=I+leverage+on+code+to+solve;societal+problems+through;Data+Science;and+;Software+Development" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=95F746&center=true&width=435&lines=I+leverage+on+code+to+solve;societal+problems+through;Data+Science;and+;Software+Development" alt="Typing SVG" /></a>
+</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/allanmutisya">
